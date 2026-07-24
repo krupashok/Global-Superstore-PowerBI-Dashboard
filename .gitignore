@@ -1,0 +1,13 @@
+# Power BI temporary and recovery files
+~$*.pbix
+*.pbix.autosave
+*.pbit.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.idea/
+.vscode/
